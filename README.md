@@ -4,6 +4,8 @@ Welcome to my profile, here's a short intro about myself:
 
 I am currently working in Astrazeneca as a Data Analyst, where my work is mostly focused on developing sales forecasting visualizations in PowerBI. In my free time, I like dabble around in R, Python and Statistics.
 
+If you are interested in R programming, you might like to follow [@data_question](https://twitter.com/data_question) on twitter, where I post an R question daily. You might also like the following quiz on [subsetting in R](https://monty.shinyapps.io/subsetting/#section-quiz)
+
 Following are some of the repositories to highlight my work and interest areas:
 
 1. [Data Science Question a Day](https://github.com/mohit2152sharma/dsqad): A repository of questions on R, Python and Statistics. This is an accompanied repository of the twitter account [@data_question](https://twitter.com/data_question)

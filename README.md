@@ -1,3 +1,5 @@
+[![Github Profile Views](https://komarev.com/ghpvc/?username=mohit2152sharma&color=blue&label=GitHub+Profile+Views)](https://github.com/mohit2152sharma)
+
 I mostly write about ML and python at https://montepy.in/
 
 Sign up for a daily python question at https://saral.club
